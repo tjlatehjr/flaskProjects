@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e4a50d7-b681-4b29-a321-d942dfd0cbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Flask Market.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask Market.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d63dff0e-3e4e-47c0-a430-45e4ebbe27e7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d63dff0e-3e4e-47c0-a430-45e4ebbe27e7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market.db" beforeDir="false" afterPath="$PROJECT_DIR$/market/market.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/market.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/market.db" beforeDir="false" afterPath="$PROJECT_DIR$/market/market.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +132,7 @@
       <workItem from="1648737823342" duration="1428000" />
       <workItem from="1648744542029" duration="202000" />
       <workItem from="1648744754603" duration="2297000" />
-      <workItem from="1648747066861" duration="12438000" />
+      <workItem from="1648747066861" duration="18008000" />
     </task>
     <servers />
   </component>
